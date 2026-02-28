@@ -1,0 +1,21 @@
+{
+  "status": "VALID",
+  "token": "MYSTV0ID_SECRET_2025"
+}
+```
+
+> ⚠️ غير الـ Token لشي صعب تخمنه أنت بس تعرفه
+
+اضغط **Commit changes**
+
+---
+
+### الخطوة 4: فعّل GitHub Pages
+- اذهب لـ **Settings** في الـ Repository
+- اضغط **Pages** من القائمة اليسار
+- تحت **Source** اختار **main**
+- اضغط **Save**
+
+انتظر دقيقة وبعدين رابطك يكون:
+```
+https://USERNAME.github.io/roblox-license/status.json
